@@ -3,8 +3,11 @@
 }
 
 .banner {
+   position: absolute;
     margin: auto;
-    width: 50%;
+   width: 620;
+   width: 155;
+
 }
 
 .right{

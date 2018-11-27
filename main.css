@@ -16,8 +16,8 @@
 }
 
 .right{
-   border: 1px solid red;
-    float: right;
+   border: 1px solid green;
+   text-align: right
 }
 
 .left{

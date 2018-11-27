@@ -3,12 +3,14 @@
 }
 
 .banner {
+    position: absolute;
     display: block;
     margin: auto;
     width: 50%;
 }
 
 .right{
+    position: absolute;
     margin-left: auto;
     width: 100%;
 }

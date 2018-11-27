@@ -10,7 +10,9 @@
 }
 
 img.right{
-   margin-right: 0px;
+    position: absolute;
+    right: 0px;
+    padding: 10px;
 }
 
 img.bottom{

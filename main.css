@@ -12,12 +12,14 @@
 }
 
 .banner {
-   display: inline-block;
+    border: 1px solid red;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
     width: 40%;
 }
 
 .right{
-   border: 1px solid red;
    position: absolute;
    bottom:0px;
    right:0px;

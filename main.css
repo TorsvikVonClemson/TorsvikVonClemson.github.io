@@ -17,7 +17,7 @@
 
 .right{
    border: 1px solid red;
-   right:0px;
+   margin-right:0px;
 }
 
 .left{

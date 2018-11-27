@@ -26,9 +26,9 @@
 }
 
 .left{
-   display: inline-block;
-   float:left;
-   vertical-align: bottom;
+   position: absolute;
+   bottom:0px;
+   left:0px;
 }
 
 img.bottom{

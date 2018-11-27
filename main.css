@@ -1,9 +1,9 @@
 .inline-block {
    display:inline-block;
    vertical-align: bottom;
-   margin-right:auto;
-   margin-left:auto;
    width: 100%;
+   border: 1px solid red;
+   margin:auto;
 }
 
 .inline {

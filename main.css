@@ -3,13 +3,13 @@
 }
 
 .banner {
-   display: block;
+   margin: auto;
    width: 620px;
    height: 155px;
 }
 
 .right{
-   margin-right: 0%;
+   margin-left: 0%;
 }
 
 img.bottom{

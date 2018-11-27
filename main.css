@@ -15,6 +15,12 @@
 
 .right{
     float:right;
+   vertical-align: bottom;
+}
+
+.left{
+    float:left;
+   vertical-align: bottom;
 }
 
 img.bottom{

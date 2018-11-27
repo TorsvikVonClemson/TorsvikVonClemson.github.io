@@ -16,9 +16,7 @@
 }
 
 .right{
-   display:inline-block;
-   vertical-align: bottom;
-   position: absolute;
+   border: 1px solid red;
    right:0px;
 }
 

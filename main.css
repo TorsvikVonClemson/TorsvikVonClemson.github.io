@@ -3,10 +3,13 @@
 }
 
 .banner {
+   display: block;
    width: 620px;
    height: 155px;
    position: absolute;
-   margin: auto;
+   margin-right: auto;
+   margin-left: auto;
+   
 
 }
 

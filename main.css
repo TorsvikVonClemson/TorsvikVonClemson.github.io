@@ -6,26 +6,28 @@
 }
 
 
+/* Add a black background color to the top navigation */
 .nav-bar {
-    width: 100%; /* Full-width */
-    background-color: #FF00FF;
-    overflow: auto; /* Overflow due to float */
+    background-color: #0000FF;
+    overflow: hidden;
 }
 
+/* Style the links inside the navigation bar */
 .nav-bar a {
-    float: left; /* Float links side by side */
-    text-align: center; /* Center-align text */
-    width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
-    padding: 12px 0; /* Some top and bottom padding */
-    transition: all 0.3s ease; /* Add transition for hover effects */
-    color: white; /* White text color */
-    font-size: 36px; /* Increased font size */
+    float: left;
+    color: #AA00AA;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
+/* Change the color of links on hover */
 .nav-bar a:hover {
-    background-color: #AA00AA; /* Add a hover color */
+    background-color: #AA00AA;
 }
 
-.active {
-    background-color: #4CAF50; /* Add an active/current color */
+/* Add a color to the active/current link */
+.nav-bar a.active {
+    background-color: #4CAF50;
 }

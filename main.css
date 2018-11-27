@@ -1,3 +1,7 @@
+@font-face {
+    font-family: masterSystem;
+    src: url(TorsvikVonClemson.github.io/Modern No. 216 Regular.ttf);
+}
 .center {
     display: block;
     margin-left: auto;

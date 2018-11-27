@@ -2,10 +2,10 @@
    display: inline-block;
 }
 
-.center {
+.banner {
     display: block;
     margin: auto;
-    width: 70%;
+    width: 50%;
 }
 
 .right{

@@ -1,7 +1,8 @@
 .inline-block {
    display: inline-block;
    vertical-align: bottom;
-   margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .inline {
@@ -10,8 +11,6 @@
 
 .banner {
    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
     width: 40%;
 }
 

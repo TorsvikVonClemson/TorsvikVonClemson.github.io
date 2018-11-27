@@ -8,7 +8,7 @@
 
 .nav-bar {
     width: 100%; /* Full-width */
-    background="Windows901stBoot.bmp"
+    background-color: #FF00FF;
     overflow: auto; /* Overflow due to float */
 }
 
@@ -23,7 +23,7 @@
 }
 
 .nav-bar a:hover {
-    background-color: #000; /* Add a hover color */
+    background-color: #AA00AA; /* Add a hover color */
 }
 
 .active {

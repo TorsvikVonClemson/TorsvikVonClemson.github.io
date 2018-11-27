@@ -1,5 +1,5 @@
 .inline-block {
-   display:block;
+   display:inline-block;
    vertical-align: bottom;
     margin-left: auto;
     margin-right: auto;
@@ -15,9 +15,8 @@
 }
 
 .right{
-   display: inline-block;
-   margin-right: 0px;
-   vertical-align: bottom;
+   position: absolute;
+   right:0px;
 }
 
 .left{

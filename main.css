@@ -1,4 +1,5 @@
 .inline-block {
+   position:relative;
    display:inline-block;
    vertical-align: bottom;
    width: 100%;
@@ -16,7 +17,7 @@
 }
 
 .right{
-   border: 1px solid green;
+   border: 1px solid red;
    position: absolute;
    bottom:0px;
    right:0px;

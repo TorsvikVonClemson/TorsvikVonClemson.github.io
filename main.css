@@ -8,6 +8,8 @@
 .nav-bar {
     background-color: #FF00FF;
     overflow: hidden;
+    border-style: solid;
+    border-width: 5px;
 }
 
 .nav-bar a {
@@ -22,7 +24,9 @@
 /* Change the color of links on hover */
 .nav-bar a:hover {
     background-color: #AA00AA;
-    color:#FFFFFF
+    color:#FFFFFF;
+    border-style: solid;
+    border-width: 5px;
 }
 
 /* Add a color to the active/current link */

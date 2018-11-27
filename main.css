@@ -3,14 +3,14 @@
 }
 
 .banner {
-    position: absolute;
+    position: relative;
     margin: auto;
     width: 50%;
 }
 
 .right{
-    position: absolute;
-    margin-left: auto;
+    position: relative;
+    margin-right: auto;
 }
 
 img.bottom{

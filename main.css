@@ -16,8 +16,10 @@
 }
 
 .right{
-   border: 1px solid green;
-   text-align: right
+   border: 1px solid red;
+   position: absolute;
+   bottom:0px;
+   right:0px;
 }
 
 .left{

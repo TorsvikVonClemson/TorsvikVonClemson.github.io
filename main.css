@@ -3,10 +3,10 @@
 }
 
 .banner {
-   margin-left: auto;
-   margin-right: auto;
-   width: 620px;
-   height: 155px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .right{

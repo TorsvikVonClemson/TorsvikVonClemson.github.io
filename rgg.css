@@ -1,0 +1,62 @@
+.inline-block {
+   position:relative;
+   display:inline-block;
+   vertical-align: bottom;
+   width: 100%;
+   margin:auto;
+}
+
+.inline {
+   display: inline;
+}
+
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.right{
+   position: absolute;
+   bottom:0px;
+   right:0px;
+}
+
+.left{
+   position: absolute;
+   bottom:0px;
+   left:0px;
+}
+
+img.bottom{
+    vertical-align: bottom;
+}
+
+.nav-bar {
+    background-color: #AAAAAA;
+    overflow: hidden;
+    border-style: outset;
+    border-width: 3px;
+}
+
+.nav-bar a {
+    float: left;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.nav-bar a:hover {
+    background-color: #888888;
+    color:#FFFFFF;
+}
+
+/* Add a color to the active/current link */
+.nav-bar a.active {
+    background-color: #17569b;
+    color: #FFFFFF
+}

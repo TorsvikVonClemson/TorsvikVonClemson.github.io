@@ -6,6 +6,11 @@
    margin:auto;
 }
 
+.offset{
+   position: absolute;
+   bottom:100px;
+}
+
 .inline {
    display: inline;
 }

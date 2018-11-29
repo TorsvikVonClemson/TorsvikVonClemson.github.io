@@ -27,6 +27,11 @@
    float:left;
 }
 
+.float-chat{
+   vertical-align: top;
+   float:right;
+}
+
 .inline-chat {
    float: right;
    position:absolute;

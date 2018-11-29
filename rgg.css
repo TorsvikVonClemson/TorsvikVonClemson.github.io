@@ -87,5 +87,6 @@ img.bottom{
    width= 100%;
 }
 .col{
+   float: left;
    width=33%;
 }

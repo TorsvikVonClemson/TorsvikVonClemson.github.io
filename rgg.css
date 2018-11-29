@@ -81,7 +81,7 @@ img.bottom{
     color: #FFFFFF
 }
 
-.row{
+.row::after{
    content: "";
    clear: both;
    display: table;

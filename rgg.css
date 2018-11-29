@@ -6,6 +6,10 @@
    margin:auto;
 }
 
+.parentBox{
+   position:relative;
+}
+
 .offset{
    position: absolute;
    bottom:100px;
@@ -35,7 +39,6 @@
 }
 
 .testBorder{
-   position:relative;
    border-style: solid;
    border-width: 1px;
    border-color: red;

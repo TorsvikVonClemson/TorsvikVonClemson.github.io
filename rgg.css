@@ -79,6 +79,7 @@ img.bottom{
 }
 
 .row{
+   display: block;
    position:relative;
    border-style: solid;
    border-width: 1px;

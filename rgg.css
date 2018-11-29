@@ -83,8 +83,8 @@ img.bottom{
 
 .col{
   float: left;
-  width: 33.00%;
-  padding: 0.1%;
+  width: 25.00%;
+  padding: 6.2%;
 }
 
 .row::after{

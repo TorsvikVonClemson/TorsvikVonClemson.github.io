@@ -85,6 +85,9 @@ img.bottom{
   float: left;
   width: 25.00%;
   padding: 6%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
 }
 
 .row::after{

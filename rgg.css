@@ -90,7 +90,7 @@ img.bottom{
    border-color: red;
 }
 .col{
-  float: left;
+  float: center;
   width: 30%;
   padding: 5px;
 }

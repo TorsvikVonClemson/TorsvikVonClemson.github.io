@@ -11,11 +11,15 @@
 }
 
 .inline-vid {
-   float:left;
-   position:absolute;
+   position:relative;
+   display:inline-block;
    vertical-align: top;
-   width: 70%;
-   height: 100%;
+   width: 100%;
+   margin:auto;
+   
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
 }
 
 .inline-chat {

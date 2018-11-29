@@ -89,8 +89,17 @@ img.bottom{
    border-width: 1px;
    border-color: red;
 }
-.col{
+.colL{
   float: left;
+  width: 33%;
+  padding: 5px;
+}
+.colC{
+    margin-left: auto;
+    margin-right: auto;
+}
+.colR{
+  float: right;
   width: 33%;
   padding: 5px;
 }

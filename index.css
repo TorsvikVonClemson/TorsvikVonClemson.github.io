@@ -9,15 +9,16 @@
 .inline-vid {
    position:relative;
    display:inline-block;
-   vertical-align: bottom;
+   vertical-align: top;
    width: 70%;
+   height: 130%;
    margin:auto;
 }
 
 .inline-chat {
    position:relative;
    display:inline-block;
-   vertical-align: bottom;
+   vertical-align: top;
    width: 20%;
    margin:auto;
 }

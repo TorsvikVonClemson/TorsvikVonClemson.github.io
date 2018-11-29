@@ -23,11 +23,13 @@
 }
 
 .float-vid{
+   position:absolute;
    vertical-align: top;
    float:left;
 }
 
 .float-chat{
+   position:absolute;
    vertical-align: top;
    float:right;
 }

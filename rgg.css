@@ -28,13 +28,13 @@
 
 .right{
    position: absolute;
-   bottom:0px;
+   bottom:130px;
    left:0px;
    transform: scaleX(-1);
 }
 .left{
    position: absolute;
-   bottom:120px;
+   bottom:130px;
    left:0px;
 }
 

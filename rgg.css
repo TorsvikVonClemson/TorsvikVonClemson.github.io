@@ -45,6 +45,8 @@ img.bottom{
 }
 
 .nav-bar {
+    position: absolute;
+    bottom:100px;
     background-color: #AAAAAA;
     overflow: hidden;
     border-style: outset;

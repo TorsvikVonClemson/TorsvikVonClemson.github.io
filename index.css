@@ -9,20 +9,16 @@
 .inline-vid {
    float:left;
    position:absolute;
-   display:inline-block;
    vertical-align: top;
    width: 70%;
    height: 100%;
-   margin:auto;
 }
 
 .inline-chat {
    float: right;
    position:absolute;
-   display:inline-block;
    vertical-align: top;
    width: 20%;
-   margin:auto;
 }
 
 .inline {

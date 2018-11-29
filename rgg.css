@@ -81,6 +81,11 @@ img.bottom{
     color: #FFFFFF
 }
 
+.col{
+  float: left;
+  width: 33.33%;
+}
+
 .row::after{
    content: "";
    clear: both;
@@ -88,8 +93,4 @@ img.bottom{
    border-style: solid;
    border-width: 1px;
    border-color: red;
-}
-.col{
-  float: left;
-  width: 33.33%;
 }

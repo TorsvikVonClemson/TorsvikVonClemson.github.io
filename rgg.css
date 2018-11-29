@@ -87,8 +87,5 @@ img.bottom{
    width= 100%;
 }
 .col{
-   border-style: solid;
-   border-width: 1px;
-   border-color: magenta;
    width=33%;
 }

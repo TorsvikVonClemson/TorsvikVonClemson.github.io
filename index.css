@@ -1,7 +1,6 @@
 .inline-block {
    position:relative;
    display:inline-block;
-   vertical-align: bottom;
    width: 100%;
    margin:auto;
    

@@ -24,13 +24,15 @@
 
 .float-vid{
    position:absolute;
-   vertical-align: top;
+   top:0px;
+   left:0px;
 
 }
 
 .float-chat{
    position:absolute;
-   vertical-align: top;
+   top:0px;
+   right:0px;
 
 }
 

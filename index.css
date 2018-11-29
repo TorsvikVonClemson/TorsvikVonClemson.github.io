@@ -22,6 +22,11 @@
   border-color: red;
 }
 
+.float-vid{
+   vertical-align: top;
+   float:left;
+}
+
 .inline-chat {
    float: right;
    position:absolute;

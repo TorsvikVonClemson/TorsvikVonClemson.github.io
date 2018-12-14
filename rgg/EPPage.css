@@ -13,6 +13,7 @@
     text-indent:10%;
     position: absolute;
     top:0px;
+    bottom:90%;
     right:0px;
     left:0px;
     background-color: #CC00CC;
@@ -22,7 +23,7 @@
 .bod{
     position: absolute;
     bottom:0px; 
-    top:150px;
+    top:10%px;
     left:0px;
     right:0px;
     

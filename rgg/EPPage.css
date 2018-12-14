@@ -1,3 +1,8 @@
+@font-face {
+    font-family: niseSega;
+    src: url(TorsvikVonClemson.github.io/NiseSega.ttf) format('truetype');
+}
+
 .title{
     font-family:"niseSega";
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

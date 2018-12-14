@@ -4,6 +4,10 @@
 }
 
 .title{
+    top:0px;
+    bottom:90%;
+    right:0px;
+    left:0px;
     font-family:'niseSega',sans-serif;
     font-size:3em;
     font-weight:normal;
@@ -12,12 +16,7 @@
     text-align: left;
     text-indent:10%;
     position: absolute;
-    top:0px;
-    bottom:90%;
-    right:0px;
-    left:0px;
     background-color: #CC00CC;
-    background-size: 300px 100px;
 }
 
 .bod{

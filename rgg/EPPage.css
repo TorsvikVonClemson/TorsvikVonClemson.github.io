@@ -9,3 +9,11 @@
     border-style: outset;
     border-width: 3px;
 }
+
+.test{
+      
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 20px;
+}

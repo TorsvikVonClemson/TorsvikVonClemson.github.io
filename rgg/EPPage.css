@@ -10,6 +10,11 @@
     border-width: 3px;
 }
 
+.bod{
+    position: absolute;
+    bottom:50%; 
+}
+
 .test{
       
     border-width: 1px;

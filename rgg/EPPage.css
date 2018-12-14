@@ -13,6 +13,10 @@
 .bod{
     position: absolute;
     bottom:50%; 
+    
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
 }
 
 .test{

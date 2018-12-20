@@ -3,7 +3,7 @@
     src: url("https://TorsvikVonClemson.github.io/NiseSega.ttf") format('truetype');
 }
 @font-face {
-        font-family: "modern";
+    font-family: "modern";
     src: url("https://TorsvikVonClemson.github.io/Modern.ttf") format('truetype');
 }
 
@@ -46,15 +46,15 @@ p{
 
 .vid{
     position:absolute;
-    top: 20%;
+    bottom: 80%;
     left: 5%;
 }    
 p.desc{
     position:absolute;
-    top: 20%;
-    right: 5%;
+    bottom: 80%;
+    left: 5o%;
     background-color: #DDDDDD;
-    font-family:'niseSega',serif;    
+    font-family:'modern',serif;    
 }
 
 .test{

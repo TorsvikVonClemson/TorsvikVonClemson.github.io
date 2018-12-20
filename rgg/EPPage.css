@@ -51,7 +51,7 @@ p{
     top: 20%;
     right: 60%;
 }    
-p.desc{
+.desc{
     text-indent: 50px;
     font-size:1em;
     position:absolute;

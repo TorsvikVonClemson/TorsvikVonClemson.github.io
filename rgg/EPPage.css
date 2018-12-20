@@ -39,7 +39,7 @@ p{
     left:0px;
     right:0px;
     
-    background-color: rgba(10,10,10,.1);
+    background-color: rgba(10,10,10,.5);
     
     border-width: 1px;
     border-color: red;
@@ -57,7 +57,7 @@ p.desc{
     top: 5%;
     left: 45%;
     right: 2%;
-    background-color: #DDDDDD;
+    background-color: #888888;
     font-family:'modern',serif;    
 }
 

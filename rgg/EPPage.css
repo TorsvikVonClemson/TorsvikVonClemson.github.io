@@ -48,6 +48,9 @@ p{
     left: 5%;
 }    
 p.desc{
+    position:absolute;
+    top: 20%;
+    right: 5%;
     background-color: #DDDDDD;
     font-family:'niseSega',serif;    
 }

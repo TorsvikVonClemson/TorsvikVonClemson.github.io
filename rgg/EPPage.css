@@ -1,6 +1,8 @@
 @font-face {
     font-family: "niseSega";
     src: url("https://TorsvikVonClemson.github.io/NiseSega.ttf") format('truetype');
+    font-family: "modern";
+    src: url("https://TorsvikVonClemson.github.io/Modern.ttf") format('truetype');
 }
 
 .title{
@@ -44,6 +46,11 @@ p{
     position:absolute;
     top: 20%;
     left: 5%;
+}    
+p.desc{
+    background-color: #DDDDDD;
+    font-family:'niseSega',serif;    
+}
 
 .test{
       

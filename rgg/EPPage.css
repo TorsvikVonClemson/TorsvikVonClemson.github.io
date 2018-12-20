@@ -50,9 +50,8 @@ p.top{
    position:absolute;
    top:5%;
    left:5%;
-   right:5%;
    bottom:5%;
-   width:70%;
+   width:65%;
    height:100%;
 }    
 .desc{

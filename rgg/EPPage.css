@@ -21,11 +21,11 @@
     border-width: 1px;
     border-color: green;
     border-style: solid;
-    
-    p {
+}
+
+p {
     background-color: gray;
     padding: 5px;
-}
 }
 
 .bod{

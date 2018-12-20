@@ -49,13 +49,13 @@ p{
 .vid{
     position:absolute;
     top: 20%;
-    right: 65%;
+    right: 60%;
 }    
 p.desc{
     font-size:1em;
     position:absolute;
     top: 5%;
-    left: 40%;
+    left: 45%;
     right: 2%;
     background-color: rgba(10,10,10,.1);
     font-family:'modern',serif;    

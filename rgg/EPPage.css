@@ -52,10 +52,10 @@ p{
     left: 5%;
 }    
 p.desc{
-    font-size:1.5em;
+    font-size:1em;
     position:absolute;
     top: 5%;
-    left: 60%;
+    left: 30%;
     right: 5%;
     background-color: #888888;
     font-family:'modern',serif;    

@@ -48,8 +48,10 @@ p.top{
 
 .vid{
    position:absolute;
-   top:0px;
-   left:0px;
+   top:5%;
+   left:5%;
+   right:5%;
+   bottom:5%;
    width:70%;
    height:100%;
 }    

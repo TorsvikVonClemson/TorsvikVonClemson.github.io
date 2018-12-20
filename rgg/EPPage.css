@@ -39,7 +39,7 @@ p{
     left:0px;
     right:0px;
     
-    background-color: black;
+    background-color: #111111;
     
     border-width: 1px;
     border-color: red;
@@ -48,14 +48,13 @@ p{
 
 .vid{
     position:absolute;
-    bottom: 30%;
+    top: 20%;
     left: 5%;
 }    
 p.desc{
     font-size:2em;
     position:absolute;
-    bottom: 30%;
-    height: 350px;
+    top: 30%;
     left: 60%;
     right: 5%;
     background-color: #888888;

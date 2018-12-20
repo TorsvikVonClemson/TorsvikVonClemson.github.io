@@ -57,7 +57,7 @@ p.desc{
     top: 5%;
     left: 40%;
     right: 2%;
-    background-color: #888888;
+    background-color: rgba(10,10,10,.1);
     font-family:'modern',serif;    
 }
 

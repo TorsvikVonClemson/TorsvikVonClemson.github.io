@@ -46,14 +46,15 @@ p{
 
 .vid{
     position:absolute;
-    bottom: 20%;
+    bottom: 30%;
     left: 5%;
 }    
 p.desc{
     position:absolute;
-    bottom: 20%;
-    height: 315px;
+    bottom: 30%;
+    height: 350px;
     left: 50%;
+    right: 5%;
     background-color: #888888;
     font-family:'modern',serif;    
 }

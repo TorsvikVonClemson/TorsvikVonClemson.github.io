@@ -27,7 +27,7 @@
     border-style: solid;
 }
 
-p{
+p.top{
     padding-top:5px;
     background-color: #DD00DD;
 }

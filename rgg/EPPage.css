@@ -4,6 +4,7 @@
 }
 
 .title{
+    position: absolute;
     top:10%;
     right:0px;
     left:0px;

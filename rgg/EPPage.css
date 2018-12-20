@@ -23,7 +23,7 @@
     border-style: solid;
 }
 
-p {
+p.title {
     padding-top:5px;
     background-color: #DD00DD;
 }

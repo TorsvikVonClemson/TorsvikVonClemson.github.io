@@ -42,7 +42,7 @@ p{
 
 .vid{
     position:relative;
-    bottom: 50%;
+    top: 50%;
     left: 5%;
 
 .test{

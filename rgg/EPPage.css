@@ -52,6 +52,7 @@ p{
     left: 5%;
 }    
 p.desc{
+    font-size:2em;
     position:absolute;
     bottom: 30%;
     height: 350px;

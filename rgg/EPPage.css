@@ -6,6 +6,7 @@
 .title{
     position: absolute;
     top:5%;
+    height: 200px;
     right:0px;
     left:0px;
     box-sizing: border-box;

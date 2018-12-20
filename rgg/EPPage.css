@@ -1,7 +1,9 @@
 @font-face {
     font-family: "niseSega";
     src: url("https://TorsvikVonClemson.github.io/NiseSega.ttf") format('truetype');
-    font-family: "modern";
+}
+@font-face {
+        font-family: "modern";
     src: url("https://TorsvikVonClemson.github.io/Modern.ttf") format('truetype');
 }
 

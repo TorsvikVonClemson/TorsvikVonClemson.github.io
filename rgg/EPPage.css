@@ -35,9 +35,11 @@ p{
 .bod{
     position: absolute;
     bottom:0px; 
-    top:20%;
+    top:25%;
     left:0px;
     right:0px;
+    
+    background-color: black;
     
     border-width: 1px;
     border-color: red;
@@ -53,7 +55,7 @@ p.desc{
     position:absolute;
     bottom: 30%;
     height: 350px;
-    left: 50%;
+    left: 60%;
     right: 5%;
     background-color: #888888;
     font-family:'modern',serif;    

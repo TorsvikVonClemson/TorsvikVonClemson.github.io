@@ -52,7 +52,8 @@ p{
 p.desc{
     position:absolute;
     bottom: 80%;
-    left: 5o%;
+    height: 315px;
+    left: 50%;
     background-color: #DDDDDD;
     font-family:'modern',serif;    
 }

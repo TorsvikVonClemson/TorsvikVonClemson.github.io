@@ -8,14 +8,9 @@
     right:0px;
     left:0px;
     width: 100%;
-    height: 100px;
     box-sizing: border-box;
     font-family:'niseSega',sans-serif;
     font-size:3em;
-
-    background-color: #DD00DD;
-    background-size: 10px 50px;
-    background-position: right bottom;
     
     font-weight:normal;
     font-style:normal;
@@ -23,10 +18,14 @@
     text-align: left;
     text-indent:10%;
 
-    
     border-width: 1px;
     border-color: green;
     border-style: solid;
+    
+    p {
+    background-color: gray;
+    padding: 5px;
+}
 }
 
 .bod{

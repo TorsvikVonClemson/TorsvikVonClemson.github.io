@@ -40,6 +40,11 @@ p{
     border-style: solid;
 }
 
+.vid{
+    position:relative;
+    top: 5%;
+    left: 5%;
+
 .test{
       
     border-width: 1px;

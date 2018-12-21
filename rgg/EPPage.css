@@ -58,10 +58,10 @@ p.top{
    text-indent: 50px;
    font-size:1em;
    position:absolute;
-   top:0px;
-   right:0px;
+   top:2%;
+   right:2%;
    width: 25%;
-   height:100%;
+   bottom:2%;
    background-color: #888888;
    font-family:'modern',serif;    
 }

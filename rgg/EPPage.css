@@ -54,7 +54,8 @@ p.top{
    height:96%
 }    
 .desc{
-   margin:50px;
+   padding-left:5px;
+   padding-right:5px;
    text-indent: 50px;
    font-size:1em;
    position:absolute;

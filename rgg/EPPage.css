@@ -11,6 +11,7 @@
     position: absolute;
     right:0px;
     left:0px;
+    height: 10%;
     width: 100%;
     box-sizing: border-box;
     font-family:'niseSega',sans-serif;
@@ -22,11 +23,9 @@
     text-align: left;
     text-indent:10%;
 
-/*
     border-width: 1px;
     border-color: green;
     border-style: solid;
-    */
 
 }
 

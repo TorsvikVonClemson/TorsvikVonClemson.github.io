@@ -34,8 +34,8 @@ p.top{
 
 .bod{
     position: absolute;
-    top:25%;
-    bottom:0%;
+    top:25%;  
+    height:500px;
     left:0px;
     right:0px;
     

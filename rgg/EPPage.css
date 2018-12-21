@@ -51,17 +51,17 @@ p.top{
    left:2%;
    top:2%;
    bottom:2%;
-   width:45%;
+   width:35%;
    height:96%
 }    
 .desc{
    text-indent: 50px;
    font-size:1em;
    position:absolute;
-   top:2%;
-   right:2%;
+   top:5%;
+   right:5%;
    width:55%;
-   bottom:2%;
+   bottom:5%;
    background-color: #888888;
    font-family:'modern',serif;    
 }

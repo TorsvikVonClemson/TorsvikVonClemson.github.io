@@ -6,6 +6,7 @@
 
 .portrait{
     position: absolute;
+    box-shadow: 2px 2px;
     right: 10px;
     top: 120px;
 }

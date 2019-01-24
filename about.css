@@ -6,9 +6,9 @@
 
 .portrait{
     position: absolute;
-    box-shadow: 2px 2px;
-    right: 10px;
-    top: 125px;
+    box-shadow: 10px 10px;
+    right: 15px;
+    top: 130px;
 }
 
 .nav-bar {

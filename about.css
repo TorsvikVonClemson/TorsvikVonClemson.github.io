@@ -1,5 +1,12 @@
 .side{
     position: absolute;
+    left: 0px;
+}
+
+.portrait{
+    position: absolute;
+    right: 10px;
+    top: 120 px;
 }
 
 .nav-bar {

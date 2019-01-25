@@ -5,11 +5,12 @@
 }
 .desc{
     position: absolute;
+    padding: 5px;
     text-indent: 50px;
     top:150px;
     background-color: #AAAAAA;
-    left: 250px;
-    width:30%;
+    left: 210px;
+    width:50%;
 }
 
 .portrait{

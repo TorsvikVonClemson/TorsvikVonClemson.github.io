@@ -2,13 +2,13 @@
     position: absolute;
     left: 0px;
     top: 0px;
-    width:10%;
 }
 .desc{
+    position: absolute;
     text-indent: 50px;
     top:150px;
     background-color: #AAAAAA;
-    left: 200px;
+    left: 250px;
     width:30%;
 }
 

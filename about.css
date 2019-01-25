@@ -20,7 +20,7 @@
 .portrait{
     position: absolute;
     box-shadow: 10px 10px;
-    left: calc(50% + 220px);
+    left: calc(50% + 230px);
     top: 160px;
     width: 30%;
 }

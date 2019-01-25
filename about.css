@@ -3,6 +3,13 @@
     left: 0px;
     top: 0px;
 }
+.desc{
+    text-indent: 50px;
+    top:150px;
+    background-color: #AAAAAA;
+    left: 200px;
+    width:30%;
+}
 
 .portrait{
     position: absolute;

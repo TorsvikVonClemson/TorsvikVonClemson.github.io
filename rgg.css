@@ -9,6 +9,10 @@
 .button{
    box-shadow: 10px 10px #000000;
 }
+
+.button a:hover {
+   box-shadow: 10px 10px #888888;
+}
 .parentBox{
    position:relative;
 }

@@ -6,6 +6,9 @@
    margin:auto;
 }
 
+.button{
+   box-shadow: 10px;
+}
 .parentBox{
    position:relative;
 }

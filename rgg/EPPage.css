@@ -37,7 +37,7 @@ p.top{
 }
 
 .bod{
-    position: static;
+    position: absolute;
     top:25%;
     bottom:0%;
     height:600px;

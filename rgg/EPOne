@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>  
+<head>
+<style>
+  @font-face {
+    font-family: niseSega;
+    src: url(TorsvikVonClemson.github.io/NiseSega.ttf) format('truetype');
+}
+</style>
+  <link rel="stylesheet" href="EPPage.css">
+  <div class="title">
+    <p class="top">Modus    Operandi</p>
+  </div>
+</head> 
+<body background= "https://torsvikvonclemson.github.io/Brick.png">
+  <div class="bod">
+    <div>
+      <iframe class="vid" width="560" height="315" src="https://www.youtube.com/embed/HyxIw57yvF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="back">
+      <a href="https://torsvikvonclemson.github.io/rgg">
+        <img src="https://torsvikvonclemson.github.io/AlphaBackButton.gif">
+      </a>
+    </div>
+    <div class="desc">
+    <p> 
+      No games reviewed here. In this preliminary episode I describe the state of the Reviewcast.  
+    </p>
+    </div>
+  </div>
+</body>
+</html>

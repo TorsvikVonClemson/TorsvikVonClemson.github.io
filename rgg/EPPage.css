@@ -44,16 +44,14 @@ p.top{
     left:0px;
     right:0px;
     
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    
-    background-color: rgba(10,10,10,.8);
-    
     /*
     border-width: 1px;
     border-color: red;
     border-style: solid;
     */
+}
+.dim{
+    background-color: rgba(10,10,10,.8);
 }
 
 .vid{

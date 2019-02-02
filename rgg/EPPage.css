@@ -58,14 +58,15 @@ p.top{
 
 }    
 .desc{
+   top:7%;
+   right:2%;
+   width:47%;
    padding-left:10px;
    padding-right:10px;
    text-indent: 50px;
    font-size:1em;
    position:relative;
-   top:7%;
-   right:2%;
-   width:47%;
+
    background-color: #888888;
    font-family:'modern',serif;    
 }

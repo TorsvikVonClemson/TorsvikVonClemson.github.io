@@ -44,9 +44,11 @@ p.top{
     
     background-color: rgba(10,10,10,.8);
 
+    /*
     border-width: 1px;
     border-color: red;
     border-style: solid;
+    */
 
 }
 

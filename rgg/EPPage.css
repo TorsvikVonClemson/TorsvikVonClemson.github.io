@@ -37,7 +37,7 @@ p.top{
 }
 
 .bod{
-    position: absolute;
+    position: relative;
     top:25%;
     left:0px;
     right:0px;

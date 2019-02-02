@@ -54,6 +54,7 @@ p.top{
 
 .vid{
    position:relative;
+   display:inline-block;
    left:2%;
    top:2%;
    width:45%;

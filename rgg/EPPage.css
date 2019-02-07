@@ -61,10 +61,10 @@ p.top{
 
 }    
 .desc{
-   top:7%;
+   top:10px;
    left:50%;
    width:47%;
-   bottom:5px;
+   bottom:10px;
    padding-left:10px;
    padding-right:10px;
    padding-bottom:5px;
